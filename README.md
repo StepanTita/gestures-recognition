@@ -35,8 +35,3 @@ Meet the passionate individuals behind Sounce:
 - Hanna Vozgryva: Business Analyst, a second-year student at KNURE University (Software Engineering). 📈📊
 
 We are dedicated to making the world a more inclusive place through technology. Join us on this exciting journey to redefine communication for those with hearing and speech impairments. 🌎🤝
-
-[![UNICEF](https://www.unicef.org/southafrica/sites/unicef.org.southafrica/files/2018-06/unicef_logo.png)](https://www.unicef.org/)
-
-[Support us on UNICEF](https://www.unicef.org/) 🤗💙
-
